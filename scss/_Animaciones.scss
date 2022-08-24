@@ -333,18 +333,3 @@ $morado: #e7c7f7;
 #accor4 {
     @extend #accor1;
 }
-
-.image {
-    cursor : pointer;
-    float : left;
-      img {
-         transition: all .2s ease-in-out;
-        &:hover img {
-          -webkit-transform:scale(1.07); /* Safari and Chrome */
-          -moz-transform:scale(1.07); /* Firefox */
-          -ms-transform:scale(1.07); /* IE 9 */
-          -o-transform:scale(1.07); /* Opera */
-          transform:scale(1.07);
-        }
-    }
-}

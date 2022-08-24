@@ -142,23 +142,10 @@ header {
 		width: 100%;
 		box-shadow: 0 0 15px rgba(0,0,0,0.3);
 		cursor: pointer;
-	}
-}
-
-
-
-.image {
-    cursor : pointer;
-    float : left;
-      img {
-         transition: all .2s ease-in-out;
+        transition: all .2s ease-in-out;
        }
-        &:hover img {
-          -webkit-transform:scale(1.07); /* Safari and Chrome */
-          -moz-transform:scale(1.07); /* Firefox */
-          -ms-transform:scale(1.07); /* IE 9 */
-          -o-transform:scale(1.07); /* Opera */
+        &:hover img { 
           transform:scale(1.07);
   
       }
-  }
+}
