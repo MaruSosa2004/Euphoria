@@ -1,0 +1,98 @@
+[
+    {
+        "nombre": "Chaeyoung",
+        "Album": "Formula of Love",
+        "modelo": "Explosion",
+        "año": 2021,
+        "stock": 100,
+        "img": "Chaeyoung Explosion.jpg"
+    },
+    {
+        "nombre": "Chaeyoung",
+        "Album": "Formula of Love",
+        "modelo": "Full of Love",
+        "año": 2021,
+        "stock": 32,
+        "img": "Chaeyoung Full of Love.jpg"
+    },
+    {
+        "nombre": "Chaeyoung",
+        "Album": "Formula of Love",
+        "modelo": "Study about Love",
+        "año": 2021,
+        "stock": 367,
+        "img": "Chaeyoung Study.jpg"
+    },
+    {
+        "nombre": "Chaeyoung",
+        "Album": "Taste of Love",
+        "modelo": "Fallen",
+        "año": 2021,
+        "stock": 50,
+        "img": "Chaeyoung Fallen.jpg"
+    },
+    {
+        "nombre": "Dahyun",
+        "Album": "Formula of Love",
+        "modelo": "Full of Love",
+        "año": 2021,
+        "stock": 980,
+        "img": "Dahyun Full of Love.jpg"
+    },
+    {
+        "nombre": "Jeongyeon",
+        "Album": "Formula of Love",
+        "modelo": "Explosion",
+        "año": 2021,
+        "stock": 667,
+        "img": "Jeongyeon Explosion.jpg"
+    },
+    {
+        "nombre": "Jihyo",
+        "Album": "Formula of Love",
+        "modelo": "Explosion",
+        "año": 2021,
+        "stock": 70,
+        "img": "Jihyo Explosion.jpg"
+    },
+    {
+        "nombre": "Mina",
+        "Album": "Formula of Love",
+        "modelo": "Explosion",
+        "año": 2021,
+        "stock": 345,
+        "img": "Mina Explosion.jpg"
+    },
+    {
+        "nombre": "Momo",
+        "Album": "Formula of Love",
+        "modelo": "Explosion",
+        "año": 2021,
+        "stock": 89,
+        "img": "Momo Explosion.jpg"
+    },
+    {
+        "nombre": "Nayeon",
+        "Album": "Formula of Love",
+        "modelo": "Explosion",
+        "año": 2021,
+        "stock": 1,
+        "img": "Nayeon Explosion.jpg"
+    },
+    {
+        "nombre": "Sana",
+        "Album": "Formula of Love",
+        "modelo": "Explosion",
+        "año": 2021,
+        "stock": 20,
+        "img": "Sana Explosion.jpg"
+    },
+    {
+        "nombre": "Chaeyoung",
+        "Album": "Taste of Love",
+        "modelo": "In Love",
+        "año": 2021,
+        "stock": 560,
+        "img": "Chaeyoung In Love.jpg"
+    }
+]

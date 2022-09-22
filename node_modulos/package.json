@@ -1,0 +1,19 @@
+{
+  "name": "euphoria",
+  "version": "1.0.0",
+  "description": "Pagina de ecommerce Euphoria para compra de albums y photocards",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ../js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaruSosa2004/Euphoria.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaruSosa2004/Euphoria/issues"
+  },
+  "homepage": "https://github.com/MaruSosa2004/Euphoria#readme"
+}
